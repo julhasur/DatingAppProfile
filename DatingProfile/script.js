@@ -19,7 +19,7 @@ btn.addEventListener("click",function(){
     }
 })
 main.addEventListener("mousemove",function(dets){
-
+//making changes
     crsr.style.left=dets.x+"px"
     crsr.style.top=dets.y+"px"
 })
